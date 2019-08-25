@@ -10,4 +10,9 @@ create custom.scss file and add to index.js `import './custom.scss';`
 add bootstrap into custom.scss`@import '~bootstrap/scss/bootstrap.scss';`
 3. add axios for api call 
    `npm i axios`
-4. 
+4. add redux ,react-redux,react-thunk
+   `npm i redux react-redux react-thunk
+
+
+## what I learn
+1. redux implementation
